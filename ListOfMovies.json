@@ -1,0 +1,130 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "description": "A skilled thief, who commits corporate espionage by infiltrating the subconscious of his targets, is offered a chance to have his past crimes forgiven.",
+      "posterURL": "https://images4.alphacoders.com/845/thumb-1920-84504.jpg",
+      "rating": "9.8"
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on Gotham City.",
+      "posterURL": "https://image.tmdb.org/t/p/original/lHhZrxYk8pi25UYKgHVJSbGCwI9.jpg",
+      "rating": "9"
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "posterURL": "https://wallpapercave.com/wp/wp9256040.jpg",
+      "rating": "5.9"
+    },
+    {
+      "id": 4,
+      "title": "The Matrix",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "posterURL": "https://www.denofgeek.com/wp-content/uploads/2020/03/the-matrix.jpg?fit=1977%2C1330",
+      "rating": "8.7"
+    },
+    {
+      "id": 5,
+      "title": "The Shawshank Redemption",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "posterURL": "https://wallpapercave.com/wp/wp2014274.jpg",
+      "rating": "4.3"
+    },
+    {
+      "id": 6,
+      "title": "Pulp Fiction",
+      "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "posterURL": "https://static.hollywoodreporter.com/sites/default/files/2015/02/pulp_fiction_a_h.jpg",
+      "rating": "7.8"
+    },
+    {
+      "id": 7,
+      "title": "Fight Club",
+      "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into something much more.",
+      "posterURL": "http://www.hdwallpaper.nu/wp-content/uploads/2017/06/fight_club-3.jpg",
+      "rating": "5.4"
+    },
+    {
+      "id": 8,
+      "title": "Forrest Gump",
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+      "posterURL": "http://media1.popsugar-assets.com/files/2016/02/12/951/n/1922398/48d9710bb57e67ae_MSDFOGU_EC025_HXsJ2p5.xxxlarge_2x/i/Forrest-Gump.jpg",
+      "rating": "8.8"
+    },
+    {
+      "id": 9,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "posterURL": "https://www.hdwallpaper.nu/wp-content/uploads/2018/05/the_lord_of_the_rings_the_fellowship_of_the_ring-15.jpg",
+      "rating": "6.7"
+    },
+    {
+      "id": 10,
+      "title": "Gladiator",
+      "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "posterURL": "http://pop-verse.com/wp-content/uploads/2017/08/gladiator-battle.jpg",
+      "rating": "8.3"
+    },
+    {
+      "id": 11,
+      "title": "The Godfather",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "posterURL": "https://images.squarespace-cdn.com/content/v1/5fbc4a62c2150e62cfcb09aa/39797049-196c-4d9b-ac5b-ebeb35fdaaf8/the%2Bgodfather%2Bthumbnail%2Breal.png",
+      "rating": "9.2"
+    },
+    {
+      "id": 12,
+      "title": "The Godfather: Part II",
+      "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "posterURL": "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/2/12/1392225138593/THE-GODFATHER-PART-II-012.jpg",
+      "rating": "9.5"
+    },
+    {
+      "id": 13,
+      "title": "Schindler's List",
+      "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "posterURL": "https://www.justwatch.com/images/backdrop/8722403/s1440/schindlers-list",
+      "rating": "7.2"
+    },
+    {
+      "id": 14,
+      "title": "The Green Mile",
+      "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+      "posterURL": "https://www.thatfilmguy.net/wp-content/uploads/2014/01/The-Green-Mile-1999-.jpg",
+      "rating": "6"
+    },
+    {
+      "id": 15,
+      "title": "Saving Private Ryan",
+      "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "posterURL": "https://wallpapercave.com/wp/wp2217173.jpg",
+      "rating": "6.4"
+    },
+    {
+      "id": 16,
+      "title": "Braveheart",
+      "description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+      "posterURL": "https://www.eltbuzz.com/video/wp-content/uploads/2021/03/braveheart.jpg",
+      "rating": "8.3"
+    },
+    {
+      "id": 17,
+      "title": "The Lion King",
+      "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "posterURL": "http://cdn.kidscreen.com/wp/wp-content/uploads/2014/06/the-lion-king-original.jpg?bb77c4",
+      "rating": "6.8"
+    },
+    {
+      "id": "18",
+      "title": "Titanic",
+      "description": "Leonardo DiCaprio and Kate Winslet star as members of different social classes who fall in love during the ship's maiden voyage.",
+      "posterURL": "https://media.timeout.com/images/100654045/image.jpg",
+      "rating": "9"
+    }
+  ]
+}
